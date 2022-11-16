@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Yeseva+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Open+Sans&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora:ital@1&family=Merriweather+Sans:wght@500&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora:ital@1&family=Merriweather+Sans:wght@500&family=Open+Sans&display=swap');
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -102,4 +102,8 @@ footer li{
 
 .recent-news {
     text-align: center;
+}
+
+.message {
+    font-family: "Lora";    
 }
